@@ -54,3 +54,42 @@ restart_quiz.onclick = () =>{
   timeText.textContent = "Time Left";
   next_btn.classList.remove("show");
 }
+
+quit_quiz.onclick = () =>{
+  window.location.reload();
+}
+
+const next_btn = document.querySelector("footer .next_btn");
+const bottom_ques_counter = document.querySelector("footer .total_que span");
+
+next_btn.onclick = () => {
+  if(que_count < questions.length - 1){
+    que_count++;
+    que_numb++;
+    showQuetions(que_count);
+    queCounter(que_numb);
+    clearInterval(counter);
+    startTimer(timeValue);
+    timeText.textContent = "Time Left";
+
+    next_btn.classList.remove("show");
+    }else{
+      clearInterval(counter);
+      clearInterval(counterLine);
+      showResult();
+    }
+  }
+function showQuetions(index){
+  const que_text = document.querySelector(".que_text");
+  let que_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';
+  let option_tag = '<div class="option">'+ questions[index].options[0] +'<span></span></div>'
+                    +'<div class="option">'+ questions[index].options[1] +'<span></span></div>'
+                    +'<div class="option">'+ questions[index].options[2] +'<span></span></div>'
+                    +'<div class="option">'+ questions[index].options[3] +'<span></span></div>';
+  que_text.innerHTML = que_tag;
+  option_list.innerHTML = option_tag;
+  const option = option_list.querySelectorAll(".option");
+  for(i=0; i < option.length; i++){
+    option[i].setAttribute("onclick", "optionSelected(this)");
+  }
+}
