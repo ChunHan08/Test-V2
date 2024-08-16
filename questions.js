@@ -450,7 +450,7 @@ let questions = [
   ]
   },
   {
-  numb: 41,
+  numb: 42,
   question: "What song is this lyric from: Magic madness, heaven sin",
   answer: "Blank Space",
   options: [
@@ -461,7 +461,7 @@ let questions = [
   ]
   },
   {
-  numb: 42,
+  numb: 43,
   question: "What song is this lyric from: Fade into view oh",
   answer: "Style",
   options: [
@@ -472,7 +472,7 @@ let questions = [
   ]
   },
   {
-    numb: 43,
+    numb: 44,
     question: "What song is this lyric from: You took the Polaroid of us",
     answer: "Out of the woods",
     options: [
@@ -483,7 +483,7 @@ let questions = [
     ]
   },
   {
-  numb: 44,
+  numb: 45,
   question: "What song is this lyric from: The love they gave away",
   answer: "All You Had to do was stay",
   options: [
@@ -494,7 +494,7 @@ let questions = [
   ]
   },
   {
-  numb: 45,
+  numb: 46,
   question: "What song is this lyric from: But I can't make 'em stay",
   answer: "Shake It Off",
   options: [
@@ -505,7 +505,7 @@ let questions = [
   ]
   },
   {
-  numb: 46,
+  numb: 47,
   question: "What song is this lyric from: Wish I never hung up the phone like I did",
   answer: "I wish you would",
   options: [
@@ -516,7 +516,7 @@ let questions = [
   ]
   },
   {
-  numb: 47,
+  numb: 48,
   question: "What song is this lyric from: Did you have to do this?",
   answer: "Bad Blood",
   options: [
@@ -527,7 +527,7 @@ let questions = [
   ]
   },
   {
-  numb: 48,
+  numb: 49,
   question: "What song is this lyric from: red lips and rosey cheeks",
   answer: "Wildest Dreams",
   options: [
@@ -538,7 +538,7 @@ let questions = [
   ]
   },
   {
-  numb: 49,
+  numb: 50,
   question: "What song is this lyric from: she'll open up the door",
   answer: "How you get the girl",
   options: [
@@ -549,7 +549,7 @@ let questions = [
   ]
   },
   {
-  numb: 50,
+  numb: 51,
   question: "What song is this lyric from: Skies grew darker",
   answer: "This love",
   options: [
@@ -559,4 +559,115 @@ let questions = [
     "This love",
   ]
   },
+  {
+  numb: 52,
+  question: "What song is this lyric from: You stand with your hand on my waistline",
+  answer: "I know places",
+  options: [
+    "you are in love",
+    "welcome to new york",
+    "style",
+    "I know places",
+  ]
+  },
+  {
+  numb: 53,
+  question: "What song is this lyric from: It was months and months of back and forth",
+  answer: "clean",
+  options: [
+    "clean",
+    "Wildest dreams",
+    "You are in love",
+    "Wonderland",
+  ]
+  },
+  {
+  numb: 54,
+  question: "What song is this lyric from: Skies grew darker",
+  answer: "Wonderland",
+  options: [
+    "This love",
+    "I know places",
+    "Wonderland",
+    "New romantics",
+  ]
+  },
+  {
+  numb: 55,
+  question: "What song is this lyric from: Lighthearted Joke No proof, not much",
+  answer: "You are in Love",
+  options: [
+    "You are in Love",
+    "Bad blood",
+    "How you get the girl",
+    "wildest dreams",
+  ]
+  },
+  {
+  numb: 56,
+  question: "What song is this lyric from: We play dumb but we know exactly what we're doin'",
+  answer: "New Romantics",
+  options: [
+    "New Romantics",
+    "Is it Over now",
+    "I know places",
+    "style",
+  ]
+  },
+  {
+  numb: 57,
+  question: "What song is this lyric from: Aquamarine, moonlit swimming pool",
+  answer: "sl!t",
+  options: [
+    "sl!t",
+    "Bad blood",
+    "say dont go",
+    "How you get the girls",
+  ]
+  },
+  {
+  numb: 58,
+  question: "What song is this lyric from: The waiting is a sadness",
+  answer: "Say dont go",
+  options: [
+    "style",
+    "All you had to do was stay",
+    "say dont go",
+    "blank space",
+  ]
+  },
+  {
+  numb: 59,
+  question: "What song is this lyric from: You grew you hair long, you got new icons",
+  answer: "Now that we dont talk",
+  options: [
+    "Out of the woods",
+    "How you get the girls",
+    "Now that we dont talk",
+    "Welcome to new york",
+  ]
+  },
+  {
+  numb: 60,
+  question: "What song is this lyric from: You had people who called you on unmarked numbers",
+  answer: "Suburban Legends",
+  options: [
+    "Suburban Legends",
+    "I wish you would",
+    "bad blood",
+    "How you get the girl",
+  ]
+  },
+  {
+  numb: 61,
+  question: "What song is this lyric from: You still wouldnt go",
+  answer: "is it over now?",
+  options: [
+    "say dont go",
+    "wonderland",
+    "is it over now?",
+    "blank space",
+  ]
+  },
+  
 ];
