@@ -339,4 +339,103 @@ let questions = [
       "White Horse",
     ]
   },
+  {
+  numb: 32,
+  question: "What song is this lyric from: I'm so very tame now.",
+  answer: "Ready for it?",
+  options: [
+    "Delicate",
+    "Ready for it?",
+    "The Archer",
+    "so it goes",
+  ]
+  },
+  {
+  numb: 39,
+  question: "What song is this lyric from: Big reputation, big reputation.",
+  answer: "End Game",
+  options: [
+    "Don't Blame Me",
+    "Call It What You Want",
+    "End Game",
+    "so it goes",
+  ]
+  },
+  {
+  numb: 40,
+  question: "What song is this lyric from: They got their pitchforks and proof.",
+  answer: "I Did Something Bad",
+  options: [
+    "The Archer",
+    "I Did Something Bad",
+    "New Year's Day",
+    "So It Goes",
+  ]
+  },
+  {
+  numb: 41,
+  question: "What song is this lyric from: For you, I would cross the line.",
+  answer: "Don't Blame Me",
+  options: [
+    "Don't Blame Me",
+    "Gorgeous",
+    "Dress",
+    "Seven",
+  ]
+  },
+  {
+  numb: 42,
+  question: "What song is this lyric from: Any promises now, can we, babe?",
+  answer: "Delicate",
+  options: [
+    "Afterglow",
+    "The Archer",
+    "I Think He Knows",
+    "Delicate",
+  ]
+  },
+  {
+  numb: 43,
+  question: "What song is this lyric from: But I got smarter, I got harder in the nick of time.",
+  answer: "Look What You Made Me Do",
+  options: [
+    "August",
+    "The Archer",
+    "Look What You Made Me Do",
+    "Daylight",
+  ]
+  },
+  {
+  numb: 44,
+  question: "What song is this lyric from: Gold Cage, hostage to my feelings",
+  answer: "So It Goes",
+  options: [
+    "Getaway Car",
+    "So It Goes",
+    "The Archer",
+    "I Think He Knows",
+  ]
+  },
+  {
+  numb: 45,
+  question: "What song is this lyric from: Of your magnetic field being a little too strong",
+  answer: "Gorgeous",
+  options: [
+    "Gorgeous",
+    "Dress",
+    "Peace",
+    "Snow on the Beach",
+  ]
+  },
+  {
+  numb: 46,
+  question: "What song is this lyric from: I struck a match and blew your mind",
+  answer: "Get Away Car",
+  options: [
+    "False God",
+    "Get Away Car",
+    "You Need To Calm Down",
+    "hoax",
+  ]
+  }
 ];
