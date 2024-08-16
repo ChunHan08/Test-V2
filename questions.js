@@ -229,4 +229,114 @@ let questions = [
       "Snow on the Beach",
     ]
   },
+  {
+    numb: 22,
+    question: "What song is this lyric from: one prize I'd cheat to win?",
+    answer: "Willow",
+    options: [
+      "Evermore",
+      "Dorthea",
+      "Willow",
+      "Closure",
+    ]
+  },
+  {
+    numb: 23,
+    question: "What song is this lyric from: you just see right through me?",
+    answer: "Invisible",
+    options: [
+      "Invisible",
+      "Picture to Burn",
+      "Tim McGraw",
+      "Should've Said No",
+    ]
+  },
+  {
+    numb: 24,
+    question: "What song is this lyric from: chains around my demons?",
+    answer: "Invisble String",
+    options: [
+      "Hoax",
+      "the 1",
+      "illicit affairs",
+      "Invisble String",
+    ]
+  },
+  {
+    numb: 25,
+    question: "What song is this lyric from: Don’t read the last page?",
+    answer: "New Years Day",
+    options: [
+      "Call it what you want",
+      "New Years Day",
+      "Delicate",
+      "So it Goes",
+    ]
+  },
+  {
+    numb: 26,
+    question: "What song is this lyric from: spinning out of control?",
+    answer: "Wonderland",
+    options: [
+      "Say Don't Go",
+      "Now That We Don't Talk",
+      "Wonderland",
+      "Is It Over Now",
+    ]
+  },
+  {
+  numb: 27,
+  question: "What song is this lyric from: snakes and stones never broke my bones?",
+  answer: "You Need To Calm Down",
+  options: [
+    "False God",
+    "You Need To Calm Down",
+    "Daylight",
+    "AfterGlow",
+  ]
+  },
+  {
+    numb: 28,
+    question: "What song is this lyric from: this godforsaken mess that you made me?",
+    answer: "Illicit affairs",
+    options: [
+      "Illicite affairs",
+      "Seven",
+      "This is me trying",
+      "August",
+    ]
+  },
+  {
+    numb: 29,
+    question: "What song is this lyric from: trying hard not to look like I'm trying?",
+    answer: "Electric touch",
+    options: [
+      "Sparks fly",
+      "Speak now",
+      "Dear John",
+      "Electric touch",
+    ]
+  },
+  {
+    numb: 30,
+    question: "What song is this lyric from: until the day I die?",
+    answer: "No Body No Crime",
+    options: [
+      "Evermore",
+      "Cowboy Like Me",
+      "No Body No Crime",
+      "Willow",
+    ]
+  },
+  {
+    numb: 31,
+    question: "What song is this lyric from: painting pictures in the sky?",
+    answer: "I'm only me when I'm with you",
+    options: [
+      "Picture to Burn",
+      "I'm only me when I'm with you",
+      "Fearless",
+      "White Horse",
+    ]
+  },
 ];
