@@ -351,7 +351,7 @@ let questions = [
   ]
   },
   {
-  numb: 39,
+  numb: 33,
   question: "What song is this lyric from: Big reputation, big reputation.",
   answer: "End Game",
   options: [
@@ -362,7 +362,7 @@ let questions = [
   ]
   },
   {
-  numb: 40,
+  numb: 34,
   question: "What song is this lyric from: They got their pitchforks and proof.",
   answer: "I Did Something Bad",
   options: [
@@ -373,7 +373,7 @@ let questions = [
   ]
   },
   {
-  numb: 41,
+  numb: 35,
   question: "What song is this lyric from: For you, I would cross the line.",
   answer: "Don't Blame Me",
   options: [
@@ -384,7 +384,7 @@ let questions = [
   ]
   },
   {
-  numb: 42,
+  numb: 36,
   question: "What song is this lyric from: Any promises now, can we, babe?",
   answer: "Delicate",
   options: [
@@ -395,7 +395,7 @@ let questions = [
   ]
   },
   {
-  numb: 43,
+  numb: 37,
   question: "What song is this lyric from: But I got smarter, I got harder in the nick of time.",
   answer: "Look What You Made Me Do",
   options: [
@@ -406,7 +406,7 @@ let questions = [
   ]
   },
   {
-  numb: 44,
+  numb: 38,
   question: "What song is this lyric from: Gold Cage, hostage to my feelings",
   answer: "So It Goes",
   options: [
@@ -417,7 +417,7 @@ let questions = [
   ]
   },
   {
-  numb: 45,
+  numb: 39,
   question: "What song is this lyric from: Of your magnetic field being a little too strong",
   answer: "Gorgeous",
   options: [
@@ -428,7 +428,7 @@ let questions = [
   ]
   },
   {
-  numb: 46,
+  numb: 40,
   question: "What song is this lyric from: I struck a match and blew your mind",
   answer: "Get Away Car",
   options: [
@@ -437,5 +437,126 @@ let questions = [
     "You Need To Calm Down",
     "hoax",
   ]
-  }
+  },
+  {
+  numb: 41,
+  question: "What song is this lyric from: Everybpdy here wanted somthin' more.",
+  answer: "Welcome to New York",
+  options: [
+    "Blank Space",
+    "Welcome to New York",
+    "How you get the girl",
+    "Style"
+  ]
+  },
+  {
+  numb: 41,
+  question: "What song is this lyric from: Magic madness, heaven sin",
+  answer: "Blank Space",
+  options: [
+    "Style",
+    "Shake it off",
+    "Blank Space",
+    "Wildest Dreams",
+  ]
+  },
+  {
+  numb: 42,
+  question: "What song is this lyric from: Fade into view oh",
+  answer: "Style",
+  options: [
+    "Style",
+    "Say Don't Go",
+    "I Wish You Would",
+    "Bad Blood",
+  ]
+  },
+  {
+    numb: 43,
+    question: "What song is this lyric from: You took the Polaroid of us",
+    answer: "Out of the woods",
+    options: [
+      "All you had to do was stay",
+      "This love",
+      "Out of the woods",
+      "Shake it off",
+    ]
+  },
+  {
+  numb: 44,
+  question: "What song is this lyric from: The love they gave away",
+  answer: "All You Had to do was stay",
+  options: [
+    "All You Had to do was stay",
+    "I know Places",
+    "Clean",
+    "You are in love",
+  ]
+  },
+  {
+  numb: 45,
+  question: "What song is this lyric from: But I can't make 'em stay",
+  answer: "Shake It Off",
+  options: [
+    "Shake It off",
+    "Is it over now?",
+    "Suburban Legends",
+    "I know places",
+  ]
+  },
+  {
+  numb: 46,
+  question: "What song is this lyric from: Wish I never hung up the phone like I did",
+  answer: "I wish you would",
+  options: [
+    "I wish you would",
+    "Wonderland",
+    "Clean",
+    "How you get the girl",
+  ]
+  },
+  {
+  numb: 47,
+  question: "What song is this lyric from: Did you have to do this?",
+  answer: "Bad Blood",
+  options: [
+    "Bad Blood",
+    "Welcome to New york",
+    "New Romantics",
+    "Clean",
+  ]
+  },
+  {
+  numb: 48,
+  question: "What song is this lyric from: red lips and rosey cheeks",
+  answer: "Wildest Dreams",
+  options: [
+    "How you get the girl",
+    "this love",
+    "shake it off",
+    "Wildest Dreams",
+  ]
+  },
+  {
+  numb: 49,
+  question: "What song is this lyric from: she'll open up the door",
+  answer: "How you get the girl",
+  options: [
+    "How you get the girl",
+    "style",
+    "wonderland",
+    "clean",
+  ]
+  },
+  {
+  numb: 50,
+  question: "What song is this lyric from: Skies grew darker",
+  answer: "This love",
+  options: [
+    "clean",
+    "sl!t",
+    "Wonderland",
+    "This love",
+  ]
+  },
 ];
