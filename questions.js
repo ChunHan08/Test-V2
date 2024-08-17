@@ -1263,4 +1263,114 @@ let questions = [
       "Imgonnagetyouback",
     ]
   },
+  {
+    numb: 117,
+    question: "What song is this lyric from: I swept in at the rescue",
+    answer: "The Albatross",
+    options: [
+      "The Albatross",
+      "How Did It End",
+      "I look in people's Windows",
+      "The Prophecy",
+    ]
+  },
+  {
+    numb: 118,
+    question: "What song is this lyric from: Chloe or Sam or Sophia or Marcus",
+    answer: "",
+    options: [
+      "I Hate It Here",
+      "Peter",
+      "Chole or Sam or Sophia or Marcus",
+      "Fortnite",
+    ]
+  },
+  {
+    numb: 119,
+    question: "What song is this lyric from: it happened again",
+    answer: "How Did It End?",
+    options: [
+      "How Did It End?",
+      "I look in people's Windows",
+      "I hate it here",
+      "The Prophecy",
+    ]
+  },
+  {
+    numb: 120,
+    question: "What song is this lyric from: The brink of a wrinkle in time",
+    answer: "So High School",
+    options: [
+      "SO High School",
+      "loml",
+      "The Black Dog",
+      "Down Bad",
+    ]
+  },
+  {
+    numb: 121,
+    question: "What song is this lyric from: Tell me all your secrets",
+    answer: "I Hate It Here",
+    options: [
+      "The Smallest Man Who Ever Lived",
+      "I Hate It Here",
+      "The Black Dog",
+      "Fortnite",
+    ]
+  },
+  {
+    numb: 122,
+    question: "What song is this lyric from: When I picture my home town",
+    answer: "thanK you alMee",
+    options: [
+      "thanK you alMee",
+      "Cold As You",
+      "Stay Beautiful",
+      "The Outside",
+    ]
+  },
+  {
+    numb: 123,
+    question: "What song is this lyric from: One More Time",
+    answer: "I Look in People's Windows",
+    options: [
+      "I look in People's Windows",
+      "Invisible",
+      "Fortnite",
+      "Superman",
+    ]
+  },
+  {
+    numb: 124,
+    question: "What song is this lyric from: I've been on my knees",
+    answer: "The Prophecy",
+    options: [
+      "Ours",
+      "Down Bad",
+      "The Prophecy",
+      "ThanK you aImee",
+    ]
+  },
+  {
+    numb: 125,
+    question: "What song is this lyric from: When the truth comes out it's quiet",
+    answer: "Cassandra",
+    options: [
+      "The Black Dog",
+      "CLean",
+      "A place in this world",
+      "Cassandra",
+    ]
+  },
+  {
+    numb: 126,
+    question: "What song is this lyric from: She said she was trying",
+    answer: "Peter",
+    options: [
+      "Mean",
+      "Our Song",
+      "Peter",
+      "Picture the Burn",
+    ]
+  }
 ];
