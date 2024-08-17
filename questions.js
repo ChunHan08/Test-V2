@@ -1604,5 +1604,125 @@ let questions = [
       "The Last Greatest American Dynsty",
     ]
   },
-  
+  {
+    numb: 148,
+    question: "What song is this lyric from: And if it was an open-shut case",
+    answer: "Willow",
+    options: [
+      "Cowboy Like Me",
+      "Its time to go",
+      "Willow",
+      "Closure",
+    ]
+  },
+  {
+    numb: 149,
+    question: "What song is this lyric from: Bustling crowds or silent sleepers ",
+    answer: "Champagne Problems",
+    options: [
+      "Gold Rush",
+      "Champagne Problems",
+      "Willow",
+      "Evermore",
+    ]
+  },
+  {
+    numb: 150,
+    question: "What song is this lyric from: Eyes like sinking shops on waters",
+    answer: "Gold Rush",
+    options: [
+      "Gold Rush",
+      "Tolerate it",
+      "Dorthea",
+      "Evermore",
+    ]
+  },
+  {
+    numb: 151,
+    question: "What song is this lyric from: If I wanted to know who you were hanging with",
+    answer: "'Tis the damn season",
+    options: [
+      "No body no crime",
+      "'Tis the damn season",
+      "Willow",
+      "tolerate it",
+    ]
+  },
+  {
+    numb: 152,
+    question: "What song is this lyric from: I wake and watch you breathing with your eyes closed",
+    answer: "tolerate it",
+    options: [
+      "happiness",
+      "Ivy",
+      "Willow",
+      "tolerate it",
+    ]
+  },
+  {
+    numb: 153,
+    question: "What song is this lyric from: We meet up every Tuesday for dinner and a glass of wine",
+    answer: "No body no crime",
+    options: [
+      "No body no crime",
+      "Cowboy Like Me",
+      "Long Story Short",
+      "Marjorie",
+    ]
+  },
+  {
+    numb: 154,
+    question: "What song is this lyric from: Honey, when I'm above the trees",
+    answer: "Happiness",
+    options: [
+      "Cowboy Like Me",
+      "Happiness",
+      "Closure",
+      "Its time to go",
+    ]
+  },
+  {
+    numb: 155,
+    question: "What song is this lyric from: She got shiny freinds",
+    answer: "Dorthea",
+    options: [
+      "Long Story Short",
+      "Closure",
+      "Dorthea",
+      "Its time to go",
+    ]
+  },
+  {
+    numb: 156,
+    question: "What song is this lyric from: Did I close my fist around something delicate?",
+    answer: "Coney Island",
+    options: [
+      "Right Where You Left Me",
+      "Evermore",
+      "Closure",
+      "Coney Island",
+    ]
+  },
+  {
+    numb: 157,
+    question: "What song is this lyric from: Your touch brought forth an incandescent glow",
+    answer: "Ivy",
+    options: [
+      "Willow",
+      "Ivy",
+      "Tolerate It",
+      "Cowboy Like me",
+    ]
+  },
+  {
+    numb: 154,
+    question: "What song is this lyric from: With some tent-like thing",
+    answer: "Cowboy Like Me",
+    options: [
+      "Cowboy Like Me",
+      "Marjorie",
+      "Long story Short",
+      "Its time to go",
+    ]
+  },
 ];
