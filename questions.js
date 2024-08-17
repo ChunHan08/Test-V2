@@ -1153,4 +1153,114 @@ let questions = [
     "Fortnight",
   ]
   },
+  {
+  numb: 107,
+  question: "What song is this lyric from: I keep recalling things we never did",
+  answer: "Guilty as Sin?",
+  options: [
+    "Guilty as Sin?",
+    "I can fix him",
+    "The smallest man who ever lived",
+    "The Alchemy",
+  ]
+  },
+  {
+  numb: 108,
+  question: "What song is this lyric from: But the bare hands paved their paths",
+  answer: "Whos afraid of little old me",
+  options: [
+    "loml",
+    "The Alchemy",
+    "Whos afraid of little old me",
+    "The Black Dog",
+  ]
+  },
+  {
+    numb: 109,
+    question: "What song is this lyric from: Like a freight train through a small town",
+    answer: "I can fix him (No Really I can)",
+    options: [
+      "The Alchemy",
+      "I can fix him (No Really I can)",
+      "The Black Dog",
+      "Fortnight",
+    ]
+  },
+  {
+    numb: 110,
+    question: "What song is this lyric from: Who's gonna stop us waltzinf Back into rekindled flames",
+    answer: "loml",
+    options: [
+      "loml",
+      "imgonnagetyourback",
+      "Guilty As Sin",
+      "Clara Bow",
+    ]
+  },
+  {
+    numb: 111,
+    question: "What song is this lyric from: There in her glittering prime",
+    answer: "I can do it with a broken heart",
+    options: [
+      "I can do it with a broken heart",
+      "The Black Dog",
+      "Fortnight",
+      "Down Bad",
+    ]
+  },
+  {
+    numb: 112,
+    question: "What song is this lyric from: You tried to buy some pills",
+    answer: "The Smallest Man Who Ever Lived",
+    options: [
+      "Chole or sam or sophia or marcus",
+      "The Smallest Man Who Ever Lived",
+      "I look in people's Windows",
+      "ThanK you aImee",
+    ]
+  },
+  {
+    numb: 113,
+    question: "What song is this lyric from: The hospital was a drag",
+    answer: "The Alchemy",
+    options: [
+      "I hate it here",
+      "The prophecy",
+      "The Alchemy",
+      "ThanK you aImee",
+    ]
+  },
+  {
+    numb: 114,
+    question: "What song is this lyric from: But i think I ight die if it happend",
+    answer: "TClara Bow",
+    options: [
+      "Clara Bow",
+      "Peter",
+      "I look in people's Windows",
+      "So high school",
+    ]
+  },
+  {
+    numb: 115,
+    question: "What song is this lyric from: You hsared secrets with And you location",
+    answer: "The Black Dog",
+    options: [
+      "Chole or sam or sophia or marcus",
+      "The Bolter",
+      "The Black dog",
+      "I hate it here",
+    ]
+  },
+  {
+    numb: 116,
+    question: "What song is this lyric from: Did you research you knew the price going in",
+    answer: "Imgonnagetyouback",
+    options: [
+      "Peter",
+      "The Smallest Man Who Ever Lived",
+      "I look in people's Windows",
+      "Imgonnagetyouback",
+    ]
+  },
 ];
