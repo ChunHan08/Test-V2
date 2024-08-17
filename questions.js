@@ -1032,4 +1032,125 @@ let questions = [
     "Cold As You",
   ]
   },
+  {
+  numb: 96,
+  question: "What song is this lyric from: Just listen to the crickets sing",
+  answer: "I'm Only Me When I'm With You",
+  options: [
+    "Invisible",
+    "I'm Only Me When I'm With You",
+    "Our Song",
+    "Tear Drops on my Guitar",
+  ]
+  },
+  {
+  numb: 97,
+  question: "What song is this lyric from: she can't see the way your eyes",
+  answer: "Invisible",
+  options: [
+    "Invisible",
+    "Cold As You",
+    "Picture To Burn",
+    "The Outside",
+  ]
+  },
+  {
+  numb: 98,
+  question: "What song is this lyric from: Why would you wanna make the very first scar?",
+  answer: "A Perfectly Good Heart",
+  options: [
+    "A Place In this World",
+    "Mary's Song",
+    "A Perfectly Good Heart",
+    "Tied Together With a smile",
+  ]
+  },
+  {
+  numb: 99,
+  question: "What song is this lyric from: I was supposed to be sent away",
+  answer: "Fortnight",
+  options: [
+    "Down Bad",
+    "Fortnight",
+    "Peter",
+    "Guilty As Sin",
+  ]
+  },
+  {
+  numb: 100,
+  question: "What song is this lyric from: And that's the closet I've come to my heart",
+  answer: "The Tortured Poets Department",
+  options: [
+    "Down Bad",
+    "But Daddy I love",
+    "The Tortured Poets Department",
+    "Fresh out The Slammer",
+  ]
+  },
+  {
+  numb: 101,
+  question: "What song is this lyric from: But you should've seen him When he first got me",
+  answer: "My Boy only Breaks His favourite toys",
+  options: [
+    "loml",
+    "Florida!!!",
+    "imgonnagetyouback",
+    "My Boy only Breaks His favourite toys",
+  ]
+  },
+  {
+  numb: 102,
+  question: "What song is this lyric from: In a field in my same old town",
+  answer: "Down Bad",
+  options: [
+    "I can fix him",
+    "Down Bad",
+    "imgonnagetyouback",
+    "I can do it with a broken heart",
+  ]
+  },
+  {
+  numb: 103,
+  question: "What song is this lyric from: Pulled him in tighter each time he was drifting away",
+  answer: "So Long, London",
+  options: [
+    "So Long, London",
+    "Clara Bow",
+    "Cassandra",
+    "Guilty As Sin",
+  ]
+  },
+  {
+  numb: 104,
+  question: "What song is this lyric from: I just learned these people only raise you to cage you",
+  answer: "But Daddy I love him",
+  options: [
+    "The Black Dog",
+    "So High School",
+    "How Did it end",
+    "But Daddy I love him",
+  ]
+  },
+  {
+  numb: 105,
+  question: "What song is this lyric from: I know who my first call will be to...",
+  answer: "Fresh Our the Slammer",
+  options: [
+    "The Bolter",
+    "The Prophecy",
+    "Fresh Our the Slammer",
+    "Robin",
+  ]
+  },
+  {
+  numb: 106,
+  question: "What song is this lyric from: They said I was a cheat I guess it must be true",
+  answer: "Florida!!!",
+  options: [
+    "Florida!!!",
+    "Guilty As Sin",
+    "Down Bad",
+    "Fortnight",
+  ]
+  },
 ];
