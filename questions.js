@@ -669,5 +669,136 @@ let questions = [
     "blank space",
   ]
   },
-  
+  {
+  numb: 62,
+  question: "What song is this lyric from: You were in college, working part-time, waiting tables",
+  answer: "mine",
+  options: [
+    "mine",
+    "last kiss",
+    "enchanted",
+    "sparks fly",
+  ]
+  },
+  {
+  numb: 63,
+  question: "What song is this lyric from: But i kinda know that I won't get far",
+  answer: "Sparks Fly",
+  options: [
+    "Speak Now",
+    "Ours",
+    "Innocent",
+    "Sparks Fly",
+  ]
+  },
+  {
+  numb: 64,
+  question: "What song is this lyric from: Your guard is up and I know why",
+  answer: "Back to December",
+  options: [
+    "dear john",
+    "timeless",
+    "foolish one",
+    "last kiss",
+  ]
+  },
+  {
+  numb: 65,
+  question: "What song is this lyric from: I sneak in and see your friends",
+  answer: "speak now",
+  options: [
+    "mean",
+    "speak now",
+    "better than revenge",
+    "haunted",
+  ]
+  },
+  {
+  numb: 66,
+  question: "What song is this lyric from: And my mother accused me of losing my mind",
+  answer: "dear john",
+  options: [
+    "Never grow up",
+    "dear john",
+    "long live",
+    "haunted",
+  ]
+  },
+  {
+  numb: 67,
+  question: "What song is this lyric from: You, with your voice like nails on a chalkboard",
+  answer: "Mean",
+  options: [
+    "Mean",
+    "Mine",
+    "Superman",
+    "Timeless",
+  ]
+  },
+  {
+  numb: 68,
+  question: "What song is this lyric from: I used to know my place was the spot next to you",
+  answer: "The Story of us",
+  options: [
+    "Superman",
+    "I can see you",
+    "Castles Crumbling",
+    "The Story of us",
+  ]
+  },
+  {
+  numb: 69,
+  question: "What song is this lyric from: You little eyelids flutter 'cause you're dreaming",
+  answer: "Never Grow Up",
+  options: [
+    "Never Grow Up",
+    "Ours",
+    "Speak Now",
+    "Enchanted",
+  ]
+  },
+  {
+  numb: 70,
+  question: "What song is this lyric from: Same old tired, lonely place",
+  answer: "Enchanted",
+  options: [
+    "Timeless",
+    "Enchanted",
+    "Inocent",
+    "Ours",
+  ]
+  },
+  {
+  numb: 71,
+  question: "What song is this lyric from: The story starts when it hot, and it summer and,",
+  answer: "Better Than Revenge",
+  options: [
+    "Mean",
+    "Better Than Revenge",
+    "Innocent",
+    "Haunted",
+  ]
+  },
+  {
+  numb: 72,
+  question: "What song is this lyric from: Loss your balance on a tightrope",
+  answer: "Innocent",
+  options: [
+    "Ours",
+    "Timeless",
+    "Innocent",
+    "Last Kiss",
+  ]
+  },
+  {
+  numb: 73,
+  question: "What song is this lyric from: Its getting dark and it's all so quiet",
+  answer: "Haunted",
+  options: [
+    "Dear John",
+    "Mine",
+    "The Story of Us",
+    "Haunted",
+  ]
+  },
 ];
