@@ -1808,7 +1808,7 @@ let questions = [
     answer: "You're On Your Own,kid",
     options: [
       "Closure",
-      "Fearless",
+      "You're On Your Own,kid",
       "London Boy",
       "Dear John",
     ]
@@ -1822,6 +1822,127 @@ let questions = [
       "So It Goes",
       "Midnight Rain",
       "Innocent",
+    ]
+  },
+  {
+    numb: 165,
+    question: "What song is this lyric from: A color I've searched for since, but one thing after another",
+    answer: "Question...?",
+    options: [
+      "Bejeweled",
+      "Question...?",
+      "Labyrinth",
+      "Sweet Nothing",
+    ]
+  },
+  {
+    numb: 166,
+    question: "What song is this lyric from: Draw the cat eye, sharp enough to kill a man",
+    answer: "Vigilante Sh!t",
+    options: [
+      "Hits Different",
+      "Mastermind",
+      "Vigilante Sh!t",
+      "Sweet Nothing",
+    ]
+  },
+  {
+    numb: 167,
+    question: "What song is this lyric from: Putting someone first only works When you're in their top 5",
+    answer: "Bejeweled",
+    options: [
+      "Bejeweled",
+      "Snow On the Beach",
+      "Midnight Rain",
+      "Anti-Hero",
+    ]
+  },
+  {
+    numb: 168,
+    question: "What song is this lyric from: Breathe deep, breathe out",
+    answer: "Labyrinth",
+    options: [
+      "Lavender Haze",
+      "Marron",
+      "Midnight Rain",
+      "Labyrinth",
+    ]
+  },
+  {
+    numb: 169,
+    question: "What song is this lyric from: Coming straight home to me",
+    answer: "Karma",
+    options: [
+      "Paris",
+      "Maroon",
+      "Karma",
+      "Would've could've should've",
+    ]
+  },
+  {
+    numb: 170,
+    question: "What song is this lyric from: A pebble that we picked up last July",
+    answer: "Sweet Nothing",
+    options: [
+      "The Great War",
+      "Sweet Nothing",
+      "High Infidlity",
+      "Would've could've should've",
+    ]
+  },
+  {
+    numb: 171,
+    question: "What song is this lyric from: Once upon a time The planets and fates and all the stars aligned",
+    answer: "Mastermind",
+    options: [
+      "The Great War",
+      "Mastermind",
+      "Glitch",
+      "Paris",
+    ]
+  },
+  {
+    numb: 172,
+    question: "What song is this lyric from: Tore you banners down, took the battle underground",
+    answer: "The Great War",
+    options: [
+      "The Great War",
+      "You're Losing Me",
+      "Dear Reader",
+      "Hits different",
+    ]
+  },
+  {
+    numb: 173,
+    question: "What song is this lyric from: Every single thing I touch becomes sick with sadness",
+    answer: "Bigger Than The Whole Sky",
+    options: [
+      "Labyrinth",
+      "Glitch",
+      "Sweet Nothing",
+      "Bigger Than The Whole Sky",
+    ]
+  },
+  {
+    numb: 174,
+    question: "What song is this lyric from: Some wannabe Z-lister And all the outfits were terrible",
+    answer: "Paris",
+    options: [
+      "Bejeweled",
+      "Karma",
+      "Anti-Hero",
+      "Paris",
+    ]
+  },
+  {
+    numb: 174,
+    question: "What song is this lyric from: Rain soaking, blind hoping",
+    answer: "High Infidelity",
+    options: [
+      "Snow On The Beach",
+      "The Great War",
+      "High Infidelity",
+      "Paris",
     ]
   },
 ];
