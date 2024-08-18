@@ -2071,10 +2071,120 @@ let questions = [
     question: "What song is this lyric from: And you might think I'm bulletproof but I'm not",
     answer: "Tell me why",
     options: [
-      "your're Not Sorry",
+      "you're Not Sorry",
       "Fearless",
       "Tell me why",
-      "Forver And Always",
+      "Forever And Always",
+    ]
+  },
+  {
+    numb: 184,
+    question: "What song is this lyric from: Don't wanna hurt anymore",
+    answer: "You're Not Sorry",
+    options: [
+      "Forever & Always",
+      "Mr. Prefectly Fine",
+      "The Best Day",
+      "Change",
+    ]
+  },
+  {
+    numb: 185,
+    question: "What song is this lyric from: I'm so sorry, I'm so sorry",
+    answer: "The Way I Loved You",
+    options: [
+      "The Way I Loved You",
+      "Jump then fall",
+      "Bye Bye Baby",
+      "Don't You",
+    ]
+  },
+  {
+    numb: 186,
+    question: "What song is this lyric from: You looked me in the eye and told me you loved me",
+    answer: "Forever & Always",
+    options: [
+      "Untouchable",
+      "The Best Day",
+      "Forever & Always",
+      "Jump Then Fall",
+    ]
+  },
+  {
+    numb: 187,
+    question: "What song is this lyric from: Past the pumpkin patch and the tractor rides",
+    answer: "The Best Day",
+    options: [
+      "Mr. Prefectly Fine",
+      "The Best Day",
+      "Come In With The Rain",
+      "The Best Day",
+    ]
+  },
+  {
+    numb: 188,
+    question: "What song is this lyric from: Repeating history and you're getting sick of it",
+    answer: "Change",
+    option: [
+      "Change",
+      "Mr. Prefectly Fine",
+      "The Best Day",
+      "The Other Side Of The Door",
+    ]
+  },
+  {
+    numb: 189,
+    question: "What song is this lyric from: I hear the words but all I can think is",
+    answer: "Jump Then Fall",
+    options: [
+      "Forever & Always",
+      "We Were Happy",
+      "Superstar",
+      "Jump Then Fall",
+    ]
+  },
+  {
+    numb: 190,
+    question: "What song is this lyric from: In the middle of the night when I'm in this dream",
+    answer: "Untouchable",
+    options: [
+      "Mr. Prefectly Fine",
+      "Untouchable",
+      "Don't You",
+      "Jump Then Fall",
+    ]
+  },
+  {
+    numb: 191,
+    question: "What song is this lyric from: I don't feel welcome anymore",
+    answer: "Forever & Always",
+    options: [
+      "Today Was A Fairytale",
+      "The Best Day",
+      "Forever & Always",
+      "Jump Then Fall",
+    ]
+  },
+  {
+    numb: 192,
+    question: "What song is this lyric from: But I don't wanna go there anymore",
+    answer: "Come With The Rain",
+    options: [
+      "You All Over Me",
+      "Bye Bye Baby",
+      "Don't You",
+      "Come With The Rain",
+    ]
+  },
+  {
+    numb: 193,
+    question: "What song is this lyric from: I'd be breaking all my rules to see you",
+    answer: "Superstar",
+    options: [
+      "Superstar",
+      "Mr. Prefectly Fine",
+      "The Best Day",
+      "Jump Then Fall",
     ]
   },
 ];
