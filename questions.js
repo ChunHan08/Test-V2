@@ -1725,4 +1725,114 @@ let questions = [
       "Its time to go",
     ]
   },
+  {
+    numb: 155,
+    question: "What song is this lyric from: If the shoe fits, walk in it 'til your high heels break",
+    answer: "Long Story Short",
+    options: [
+      "Evermore",
+      "Ivy",
+      "Willow",
+      "Long Story Short",
+    ]
+  },
+  {
+    numb: 156,
+    question: "What song is this lyric from: I'd think you were talking to me now",
+    answer: "Marjorie",
+    options: [
+      "Dress",
+      "Stay",
+      "Marjorie",
+      "Closure",
+    ]
+  },
+  {
+    numb: 157,
+    question: "What song is this lyric from: And my tears, and my beers, and my candles",
+    answer: "Closure",
+    options: [
+      "Evermore",
+      "Ivy",
+      "Marjorie",
+      "Closure",
+    ]
+  },
+  {
+    numb: 158,
+    question: "What song is this lyric from: And the things that will be lost",
+    answer: "Evermore",
+    options: [
+      "Evermore",
+      "Ivy",
+      "Willow",
+      "Long Story Short",
+    ]
+  },
+  {
+    numb: 159,
+    question: "What song is this lyric from: Oh, you don't ever say too much",
+    answer: "Lavender Haze",
+    options: [
+      "Maroon",
+      "Lavender Haze",
+      "Dress",
+      "Antihero",
+    ]
+  },
+  {
+    numb: 160,
+    question: "What song is this lyric from: Looked up at the sky and it was",
+    answer: "Maroon",
+    options: [
+      "Peter",
+      "Mad Woman",
+      "Gold Rush",
+      "Maroon",
+    ]
+  },
+  {
+    numb: 161,
+    question: "What song is this lyric from: I've ghosted stand there in the room",
+    answer: "Anti-Hero",
+    options: [
+      "Anti-Hero",
+      "Mad Woman",
+      "loml",
+      "Willow",
+    ]
+  },
+  {
+    numb: 162,
+    question: "What song is this lyric from: Saw flecks of what could've been lights",
+    answer: "Snow On The Beach",
+    options: [
+      "Stay",
+      "Fearless",
+      "Snow On The Beach",
+      "Evermore",
+    ]
+  },
+  {
+    numb: 163,
+    question: "What song is this lyric from: It's okay, we're the best of friends",
+    answer: "You're On Your Own,kid",
+    options: [
+      "Closure",
+      "Fearless",
+      "London Boy",
+      "Dear John",
+    ]
+  },
+  {
+    numb: 164,
+    question: "What song is this lyric from: All of me changed like midnight",
+    answer: "Midnight Rain",
+    options: [
+      "London Boy",
+      "So It Goes",
+      "Midnight Rain",
+      "Innocent",
+    ]
+  },
 ];
