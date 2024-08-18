@@ -23,17 +23,6 @@ let questions = [
   },
   {
     numb: 3,
-    question: "What song is this lyric from: ",
-    answer: "Cruel Summer",
-    options: [
-      "Cruel Summer",
-      "All Of The Girls You Loved Before",
-      "London Boy",
-      "I Think He Knows",
-    ]
-  },
-  {
-    numb: 4,
     question: "What song is this lyric from: Don’t read the last page?",
     answer: "New Years Day",
     options: [
@@ -43,7 +32,7 @@ let questions = [
       "So it Goes",
     ]
   },
-  { numb: 5,
+  { numb: 4,
     question: "What song is this lyric from: you just see right through me?",
     answer: "Invisible",
     options: [
