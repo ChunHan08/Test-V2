@@ -1945,4 +1945,136 @@ let questions = [
       "Paris",
     ]
   },
+  {
+    numb: 175,
+    question: "What song is this lyric from: And what's in my system",
+    answer: "Glitch",
+    options: [
+      "Dear Reader",
+      "The Great War",
+      "Glitch",
+      "Mastermind",
+    ]
+  },
+  {
+    numb: 176,
+    question: "What song is this lyric from: If I was some paint, did it splatter",
+    answer: "Would've Could've Should've",
+    options: [
+      "Midnight Rain",
+      "Hits different",
+      "High Infidelity",
+      "Would've Could've Should've",
+    ]
+  },
+  {
+    numb: 177,
+    question: "What song is this lyric from: If it feels like a trap, your're already in one",
+    answer: "Dear Reader",
+    options: [
+      "Lavender Haze",
+      "Anti-Hero",
+      "Dear Reader",
+      "Snow on the Beach",
+    ]
+  },
+  {
+    numb: 178,
+    question: "What song is this lyric from: I pictured you with other girls, in love",
+    answer: "Hits Different",
+    options: [
+      "Midnight Rain",
+      "Hits Different",
+      "High Infidelity",
+      "Paris",
+    ]
+  },
+  {
+    numb: 179,
+    question: "What song is this lyric from: We're drivin' down the road",
+    answer: "Fearless",
+    options: [
+      "Fearless",
+      "Fifteen",
+      "Jump then Fall",
+      "Forever & Always",
+    ]
+  },
+  {
+    numb: 180,
+    question: "What song is this lyric from: You say hi to your freinds you ain't see in a while",
+    answer: "Fifteen",
+    options: [
+      "Breathe",
+      "Fifteen",
+      "Change",
+      "The Best Day",
+    ]
+  },
+  {
+    numb: 181,
+    question: "What song is this lyric from: See the lights, see the party, the ball gowns",
+    answer: "Love Story",
+    options: [
+      "Love Story",
+      "Jump Then Fall",
+      "You're Not Sorry",
+      "Change",
+    ]
+  },
+  {
+    numb: 182,
+    question: "What song is this lyric from: 'Cause I can't help it if you look like an angle",
+    answer: "Hey Stephen",
+    options: [
+      "The Way I loved you",
+      "Superstar",
+      "Untouchable",
+      "Hey Stephen",
+    ]
+  },
+  {
+    numb: 183,
+    question: "What song is this lyric from: 'Cause I honestly believed in you",
+    answer: "White Horse",
+    options: [
+      "White Horse",
+      "Change",
+      "The Other Side of the door",
+      "We Were Happy",
+    ]
+  },
+  {
+    numb: 182,
+    question: "What song is this lyric from: And she'll never know you story like I do",
+    answer: "You Belong With Me",
+    options: [
+      "Today Was  Fairy Tale",
+      "Mr. Prefectly Fine",
+      "You Belong With Me",
+      "We Were Happy",
+    ]
+  },
+  {
+    numb: 182,
+    question: "What song is this lyric from: I see your face in my mind as I drive away",
+    answer: "Breathe",
+    options: [
+      "Come in with the rain",
+      "Fearless",
+      "Breathe",
+      "We Were Happy",
+    ]
+  },
+  {
+    numb: 183,
+    question: "What song is this lyric from: And you might think I'm bulletproof but I'm not",
+    answer: "Tell me why",
+    options: [
+      "your're Not Sorry",
+      "Fearless",
+      "Tell me why",
+      "Forver And Always",
+    ]
+  },
 ];
