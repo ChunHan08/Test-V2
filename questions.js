@@ -2187,4 +2187,114 @@ let questions = [
       "Jump Then Fall",
     ]
   },
+  {
+    numb: 194,
+    question: "What song is this lyric from: To stand outside my window, throwin' pebbles",
+    answer: "The Other Side Of The Door",
+    options: [
+      "Don't You",
+      "The Other Side Of The Door",
+      "The Best Day",
+      "Today Was A Fairytale",
+    ]
+  },
+  {
+    numb: 195,
+    question: "What song is this lyric from: You told me I was pretty when I looked like a mess",
+    answer: "Today Was A Fairytale",
+    options: [
+      "Today Was A Fairytale",
+      "Jump Then Fall",
+      "The Best Day",
+      "Forever & Always",
+    ]
+  },
+  {
+    numb: 196,
+    question: "What song is this lyric from: I lived, and I learned, had you, got burned",
+    answer: "You All Over Me",
+    options: [
+      "Mr. Prefectly Fine",
+      "Jump Then Fall",
+      "You All Over Me",
+      "Don't You",
+    ]
+  },
+  {
+    numb: 197,
+    question: "What song is this lyric from: How's your heart after breaking mine?",
+    answer: "Mr. Prefectly Fine",
+    options: [
+      "Mr. Prefectly Fine",
+      "Bye Bye Baby",
+      "Forever & Always",
+      "That's When",
+    ]
+  },
+  {
+    numb: 198,
+    question: "What song is this lyric from: I do recall a good while back",
+    answer: "We Were Happy",
+    options: [
+      "Jump Then Fall",
+      "We Were Happy",
+      "The Best Day",
+      "Don't You",
+    ]
+  },
+  {
+    numb: 199,
+    question: "What song is this lyric from: And harder to ever take back",
+    answer: "That's When",
+    options: [
+      "Jump Then Fall",
+      "Bye Bye Baby",
+      "Don't You",
+      "That's When",
+    ]
+  },
+  {
+    numb: 200,
+    question: "What song is this lyric from: I'm sure she'll make you happy",
+    answer: "Don't You",
+    options: [
+      "The Best Day",
+      "Bye Bye Baby",
+      "Don't You",
+      "Mr. perfectly fine",
+    ]
+  },
+  {
+    numb: 201,
+    question: "What song is this lyric from: This is the last time I'll drive this way again",
+    answer: "Bye Bye Baby",
+    options: [
+      "Superstar",
+      "Bye Bye Baby",
+      "Today Was A Farytale",
+      "Come with the rain",
+    ]
+  },
+  {
+    numb: 202,
+    question: "What song is this lyric from: We fall in love 'til it hurts or bleeds or fades in time",
+    answer: "State Of Grace",
+    options: [
+      "22",
+      "All To Well",
+      "Red",
+      "State Of Grace",
+    ]
+  },
+  {
+    numb: 203,
+    question: "What song is this lyric from: Loving him is like trying to change your mind",
+    answer: "Red",
+    options: [
+      "Red",
+      "Babe",
+      "I Almost Do",
+      "StayStayStay",
+    ]
+  },
 ];
