@@ -2753,10 +2753,120 @@ let questions = [
     question: "What song is this lyric from: But the very next day You gave it away",
     answer: "Last Christmas",
     options: [
-      "White christmas",
+      "White Christmas",
       "Silent Night",
-      "Sanata Baby",
+      "Santa Baby",
       "Last Christmas",
+    ]
+  },
+  {
+    numb: 252,
+    question: "What song is this lyric from: I know this shouldn't to be a lonely time",
+    answer: "Christmas When You Were Mine",
+    options: [
+      "Christmas When You Were Mine",
+      "White Christmas",
+      "Santa Baby",
+      "Silent Night",
+    ]
+  },
+  {
+    numb: 253,
+    question: "What song is this lyric from: Well, Ill wait up for you, dear santa",
+    answer: "Christmas When You Were Mine",
+    options: [
+      "Christmas When You Were Mine",
+      "White Christmas",
+      "Santa Baby",
+      "Silent Night",
+    ]
+  },
+  {
+    numb: 254,
+    question: "What song is this lyric from: Holy infant so tender and mild",
+    answer: "Silent Night",
+    options: [
+      "Christmas When You Were Mine",
+      "White Christmas",
+      "Santa Baby",
+      "Silent Night",
+    ]
+  },
+  {
+    numb: 255,
+    question: "What song is this lyric from: And I'm not alone, I'm not alone",
+    answer: "Santa Baby",
+    options: [
+      "Santa Baby",
+      "White Christmas",
+      "Silent Night",
+      "Christmas When You Were Mine",
+    ]
+  },
+  {
+    numb: 256,
+    question: "What song is this lyric from: I lived, and I learned, had you, got burned",
+    answer: "You All Over Me",
+    options: [
+      "Love Story",
+      "Fearless",
+      "You All Over Me",
+      "Don't You",
+    ]
+  },
+  {
+    numb: 257,
+    question: "What song is this lyric from: How's your heart after breaking mine?",
+    answer: "Mr. Prefectly Fine",
+    options: [
+      "Mr. Prefectly Fine",
+      "Bye Bye Baby",
+      "Forever & Always",
+      "Dear John",
+    ]
+  },
+  {
+    numb: 258,
+    question: "What song is this lyric from: I do recall a good while back",
+    answer: "We Were Happy",
+    options: [
+      "Jump Then Fall",
+      "We Were Happy",
+      "Don't Blame Me",
+      "Dear Reader",
+    ]
+  },
+  {
+    numb: 259,
+    question: "What song is this lyric from: Tell me, what woyld you find?",
+    answer: "Christmas Must be Something More",
+    options: [
+      "Silent Night",
+      "White Christmas",
+      "Christmas Must be Something More",
+      "Christmas When You Were Mine",
+    ]
+  },
+  {
+    numb: 260,
+    question: "What song is this lyric from: May your days be merry and write ",
+    answer: "White Christmas",
+    options: [
+      "Last Christmas",
+      "White Christmas",
+      "Santa Baby",
+      "Silent Night",
+    ]
+  },
+  {
+    numb: 261,
+    question: "What song is this lyric from: You know that it all takes my breath away",
+    answer: "Two is better than one",
+    options: [
+      "I heart",
+      "Carzier",
+      "Two is better than one",
+      "Carolina",
     ]
   },
 ];
