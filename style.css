@@ -4,9 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
-  
 }
-
 body{
   background: lightblue;
 }
@@ -108,7 +106,6 @@ body{
   transform: translate(-50%, -50%) scale(0.9);
   transition: all 0.3s ease;
 }
-
 .quiz_box header{
   position: relative;
   z-index: 2;
@@ -144,11 +141,10 @@ body{
 }
 .quiz_box header .timer .timer_sec{
   font-size: 18px;
-  font-weight: 500;
   height: 30px;
+  font-weight: 500;
   width: 45px;
   color: #9b59b6;
-  font-weight: 500;
   border-radius: 5px;
   line-height: 30px;
   text-align: center;
@@ -347,5 +343,5 @@ footer button.show{
 .quiz_box section .option_list{
   padding: 20px 0;
   display: block;
-  
+  font-weight: 500;
 }

@@ -2660,4 +2660,103 @@ let questions = [
       "The Joker and the queen",
     ]
   },
+  {
+    numb: 242,
+    question: "What song is this lyric from: You opened my eyes and you made me believe",
+    answer: "Crazier",
+    options: [
+      "Birch",
+      "Renegade",
+      "Crazier",
+      "The Alcott",
+    ]
+  },
+  {
+    numb: 243,
+    question: "What song is this lyric from: I might have let them lay",
+    answer: "Renegade",
+    options: [
+      "Birch",
+      "Renegade",
+      "The Alcott",
+      "Eyes Open",
+    ]
+  },
+  {
+    numb: 244,
+    question: "What song is this lyric from: We're on a long byway standing",
+    answer: "Birch",
+    options: [
+      "Birch",
+      "Safe & Sounds",
+      "The Alcott",
+      "Eyes Open",
+    ]
+  },
+  {
+    numb: 245,
+    question: "What song is this lyric from: That this was meant to be?",
+    answer: "The Joker And The Queen",
+    options: [
+      "Birch",
+      "Eyes Open",
+      "Carolina",
+      "The Joker And The Queen",
+    ]
+  },
+  {
+    numb: 246,
+    question: "What song is this lyric from: Free as there birds, light as whispers",
+    answer: "Carolina",
+    options: [
+      "Safe And Sound",
+      "The Alcott",
+      "Carolina",
+      "The Joker And The Queen",
+    ]
+  },
+  {
+    numb: 247,
+    question: "What song is this lyric from: But all that's dead and gone and passed tonight",
+    answer: "Safe And Sound",
+    options: [
+      "Safe And Sound",
+      "Eyes Open",
+      "Carolina",
+      "us.",
+    ]
+  },
+  {
+    numb: 248,
+    question: "What song is this lyric from: Playing soldiers, just pretending",
+    answer: "Eyes Open",
+    options: [
+      "Caolina",
+      "Eyes Open",
+      "Crazier",
+      "Beautiful Ghosts",
+    ]
+  },
+  {
+    numb: 249,
+    question: "What song is this lyric from: And there you are, sitting as usual with your golden notebook",
+    answer: "The Alcott",
+    options: [
+      "The Joke And The Queen",
+      "Birch",
+      "The Alcott",
+      "Beautiful Ghosts",
+    ]
+  },
+  {
+    numb: 251,
+    question: "What song is this lyric from: But the very next day You gave it away",
+    answer: "Last Christmas",
+    options: [
+      "White christmas",
+      "Silent Night",
+      "Sanata Baby",
+      "Last Christmas",
+    ]
+  },
 ];
